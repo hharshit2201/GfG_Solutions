@@ -30,7 +30,7 @@
         if(a[0]<=a[n-1])
             return 0;
         //
-        cout<<"working"<<endl;
+        //cout<<"working"<<endl;
         low=0;
         high=n-1;
         while(low<=high)
